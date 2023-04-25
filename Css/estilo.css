@@ -4,6 +4,8 @@
 /* UTILIDADES */
 
 @import '/Css/utilidades/componentes.css';
+@import '/Css/utilidades/tipografia.css';
+@import '/Css/utilidades/cores.css';
 
 /* HOME */
 @import '/Css/home/introducao.css'
