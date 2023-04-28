@@ -9,12 +9,14 @@
     gap: 40px;
 }
 
-.tecnologia-img img {
-    height: 100%;
+.tecnologia-imagem, .img {
     width: 100%;
+    height: 100%;
     object-fit: cover;
     object-position: left;
 }
+
+
 
 
 .tecnologia-conteudo {
@@ -50,10 +52,6 @@
     width: max-content;
 }
 
-.tecnologia-vantagens p {
-    margin-bottom: 8px;
-}
-
 .tecnologia-vantagens img {
     width: 24px;
     margin-bottom: 8px;
@@ -72,7 +70,7 @@
         padding-bottom: 60px;
     }
 
-    .tecnoligia-img img {
+    .tecnoligia-img, .img {
         display: none;
     }
 
