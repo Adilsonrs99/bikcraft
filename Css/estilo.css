@@ -19,3 +19,6 @@
 
 /* BICICLETAS */
 @import '/Css/Bicicletas/bicicletas-lista.css';
+
+/* Termos e condições */
+@import '/Css/Termos/termos.css'
