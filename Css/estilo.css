@@ -23,5 +23,10 @@
 @import '/Css/Bicicletas/bicicletas-lista.css';
 @import '/Css/Bicicletas/bicicletas.css';
 
+/* BICICLETAS */
+@import '/Css/bicicleta/bicicletas.css';
+@import '/Css/bicicleta/seguro.css';
+
+
 /* Termos e condições */
 @import '/Css/Termos/termos.css'
