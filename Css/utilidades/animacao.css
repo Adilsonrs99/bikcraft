@@ -1,0 +1,26 @@
+.JS .fadeInDown {
+    transform: translate3d(0, -20px, 0);
+  }
+.JS .fadeInUp {
+    transform: translate3d(0, 20px, 0);
+  }
+.JS .fadeInRight {
+    transform: translate3d(20px, 0, 0);
+  }
+.JS .fadeInLeft {
+    transform: translate3d(-20px, 0, 0);
+  }
+
+
+.JS [data-anime] {
+    opacity: 0;
+  }
+
+.JS .anime {
+    opacity: 1;
+    transform: none;
+    transition: transform 0.8s, opacity 0.8s;
+  }
+
+ 
+

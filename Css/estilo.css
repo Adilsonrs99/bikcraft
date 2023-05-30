@@ -36,4 +36,8 @@
 @import '/Css/orcamento/orcamento.css';
 
 /* Termos e condições */
-@import '/Css/Termos/termos.css'
+@import '/Css/Termos/termos.css';
+
+/* Animação */
+
+@import '/Css/utilidades/animacao.css';
